@@ -5,7 +5,7 @@ baseurl:
 url: https://zzgdream.github.io
 date_format: "ordinal"
 title: zzgdream's-blog
-subtitle: "敲着代码看世界散人"
+subtitle: "敲着代码看世界的散人"
 description: "zzgdream的个人博客"
 keywords: zzgdream,linghucong,Python,Spider,Django,Flask
 timezone: Asia/Shanghai
